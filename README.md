@@ -9,12 +9,7 @@
 </div>
 
 ## ⚙️ Stats and Grafics
-<div>
-    <a href="https://github.com/felipyroma">
-       <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipyroma&show_icons=true&theme=radical">
-       <img height="150em" alt="Most Usage Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipyroma&theme=radical&layout=compact&langs_count=8">
-    </a>
-</div>
+
 
 ## 👨‍💻 Technologies 
 <div>
